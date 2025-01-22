@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScanTextDemo</string>
+    <string name="scan_text">Please press the scanning shortcut key (available on both the left and right sides of the device) to scan the code</string>
+</resources>
